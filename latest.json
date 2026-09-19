@@ -1,9 +1,9 @@
 {
-  "versionCode": 12,
-  "versionName": "3.0",
-  "name": "DESK 3.0",
+  "versionCode": 13,
+  "versionName": "3.1",
+  "name": "DESK 3.1",
   "at": "2026-09-19",
-  "file": "https://drive.google.com/uc?export=download&id=1Cft8iIVzBneZTFzl8VD2xCQZogBI3XxL",
-  "view": "https://drive.google.com/file/d/1Cft8iIVzBneZTFzl8VD2xCQZogBI3XxL/view?usp=drivesdk",
-  "note": "Ambient voxel drone. OpenRouter crew. Tighter games."
+  "file": "https://drive.google.com/uc?export=download&id=1VVNfBTeQWwIyrlr7rKxdrefrukBV7qr1",
+  "view": "https://drive.google.com/file/d/1VVNfBTeQWwIyrlr7rKxdrefrukBV7qr1/view?usp=drivesdk",
+  "note": "Phone pings when a new APK is ready."
 }
