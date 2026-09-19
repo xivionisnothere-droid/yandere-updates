@@ -1,0 +1,62 @@
+name: lab-pull
+on:
+  schedule:
+    - cron: "*/5 * * * *"
+  workflow_dispatch:
+jobs:
+  pull:
+    runs-on: ubuntu-latest
+    permissions:
+      issues: write
+    steps:
+      - name: ntfy to LAB INBOX
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          python3 << 'PY'
+          import hashlib, json, os, urllib.request
+          token = os.environ["GH_TOKEN"]
+          try:
+              raw = urllib.request.urlopen("https://ntfy.sh/yandere-xivionis-desk/json?poll=1&since=20m", timeout=20).read().decode()
+          except Exception:
+              raw = ""
+          msgs = []
+          for line in raw.splitlines():
+              line = line.strip()
+              if not line:
+                  continue
+              try:
+                  o = json.loads(line)
+              except Exception:
+                  continue
+              text = str(o.get("message") or "")
+              if "YANDERE BUILD PACK" in text or "Request:" in text:
+                  msgs.append(text)
+          if not msgs:
+              raise SystemExit(0)
+          ireq = urllib.request.Request(
+              "https://api.github.com/repos/xivionisnothere-droid/yandere-updates/issues/1/comments?per_page=30",
+              headers={"Authorization": f"Bearer {token}", "Accept": "application/vnd.github+json", "User-Agent": "lab"},
+          )
+          comments = json.loads(urllib.request.urlopen(ireq).read().decode())
+          bodies = "\n".join(c.get("body", "") for c in comments)
+          for text in msgs[-3:]:
+              sig = hashlib.sha1(text.encode()).hexdigest()[:12]
+              if sig in bodies:
+                  continue
+              body = text if "YANDERE BUILD PACK" in text else f"YANDERE BUILD PACK\n{text}"
+              body += f"\n\n#{sig}"
+              data = json.dumps({"body": body}).encode()
+              creq = urllib.request.Request(
+                  "https://api.github.com/repos/xivionisnothere-droid/yandere-updates/issues/1/comments",
+                  data=data,
+                  method="POST",
+                  headers={
+                      "Authorization": f"Bearer {token}",
+                      "Accept": "application/vnd.github+json",
+                      "User-Agent": "lab",
+                      "Content-Type": "application/json",
+                  },
+              )
+              urllib.request.urlopen(creq).read()
+          PY
