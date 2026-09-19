@@ -1,9 +1,9 @@
 {
-  "versionCode": 16,
-  "versionName": "3.4",
-  "name": "DESK 3.4",
+  "versionCode": 17,
+  "versionName": "3.5",
+  "name": "DESK 3.5",
   "at": "2026-09-19",
-  "file": "https://drive.google.com/uc?export=download&id=1TNit70VihlnCFViG4GZad4jLzR3Bgi4-",
-  "view": "https://drive.google.com/file/d/1TNit70VihlnCFViG4GZad4jLzR3Bgi4-/view?usp=drivesdk",
-  "note": "Fable v3. Proximity, grain, look-away hunt, phone haunt."
+  "file": "https://drive.google.com/uc?export=download&id=1qGNC3QKblfg9Joa3EcCaEEcpEoWLhzgL",
+  "view": "https://drive.google.com/file/d/1qGNC3QKblfg9Joa3EcCaEEcpEoWLhzgL/view?usp=drivesdk",
+  "note": "Pings when the desk is closed."
 }
