@@ -1,10 +1,10 @@
 {
-  "versionCode": 84,
-  "versionName": "10.2",
-  "name": "VoxelDere AI 10.2",
+  "versionCode": 85,
+  "versionName": "10.3",
+  "name": "VoxelDere AI 10.3",
   "at": "2026-09-19",
-  "file": "https://github.com/xivionisnothere-droid/yandere-updates/releases/download/v84/yandere-forge.apk",
-  "view": "https://github.com/xivionisnothere-droid/yandere-updates/releases/tag/v84",
-  "sha256": "905525de549063a55d95995b723d7fe84cfa44371e708aa15ea109fb0c0d6e26",
-  "note": "DATE gifts are a beat. Guest pockets. Stolen loot is spent. LOOK needs their face."
+  "file": "https://github.com/xivionisnothere-droid/yandere-updates/releases/download/v85/yandere-forge.apk",
+  "view": "https://github.com/xivionisnothere-droid/yandere-updates/releases/tag/v85",
+  "sha256": "099f288a626b7a5b0955262063b93f98deb5f47fb7f880b939b7a01e6da209bb",
+  "note": "Stolen loot remembers who. STEAL HUD uses their pronouns. DATE knows if it's theirs."
 }
