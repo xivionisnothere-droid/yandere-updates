@@ -1,9 +1,9 @@
 {
-  "versionCode": 52,
-  "versionName": "7.0",
-  "name": "VoxelDere AI 7.0",
+  "versionCode": 53,
+  "versionName": "7.1",
+  "name": "VoxelDere AI 7.1",
   "at": "2026-09-19",
-  "file": "https://github.com/xivionisnothere-droid/yandere-updates/releases/download/v52/yandere-forge.apk",
-  "view": "https://github.com/xivionisnothere-droid/yandere-updates/releases/tag/v52",
-  "note": "Google login saves and restores by itself after the first pick."
+  "file": "https://github.com/xivionisnothere-droid/yandere-updates/releases/download/v53/yandere-forge.apk",
+  "view": "https://github.com/xivionisnothere-droid/yandere-updates/releases/tag/v53",
+  "note": "10 second slash intro video."
 }
