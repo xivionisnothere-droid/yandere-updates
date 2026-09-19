@@ -1,9 +1,9 @@
 {
-  "versionCode": 68,
-  "versionName": "8.6",
-  "name": "VoxelDere AI 8.6",
+  "versionCode": 69,
+  "versionName": "8.7",
+  "name": "VoxelDere AI 8.7",
   "at": "2026-09-19",
-  "file": "https://github.com/xivionisnothere-droid/yandere-updates/releases/download/v68/yandere-forge.apk",
-  "view": "https://github.com/xivionisnothere-droid/yandere-updates/releases/tag/v68",
-  "note": "OpenRouter tutorial now includes 18+ attestations in account preferences."
+  "file": "https://github.com/xivionisnothere-droid/yandere-updates/releases/download/v69/yandere-forge.apk",
+  "view": "https://github.com/xivionisnothere-droid/yandere-updates/releases/tag/v69",
+  "note": "NSFW DATE portraits are actually undressed. Gray square gone."
 }
