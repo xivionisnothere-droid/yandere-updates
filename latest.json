@@ -1,9 +1,9 @@
 {
-  "versionCode": 29,
-  "versionName": "4.7",
-  "name": "DESK 4.7",
+  "versionCode": 30,
+  "versionName": "4.8",
+  "name": "DESK 4.8",
   "at": "2026-09-19",
-  "file": "https://github.com/xivionisnothere-droid/yandere-updates/releases/download/v29/yandere-forge.apk",
-  "view": "https://github.com/xivionisnothere-droid/yandere-updates/releases/tag/v29",
-  "note": "Daily UPDATE pass. New music room. Characters + game check."
+  "file": "https://github.com/xivionisnothere-droid/yandere-updates/releases/download/v30/yandere-forge.apk",
+  "view": "https://github.com/xivionisnothere-droid/yandere-updates/releases/tag/v30",
+  "note": "Forge unlocked. Full v6 More Options. STUDIO tab."
 }
