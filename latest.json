@@ -1,9 +1,9 @@
 {
-  "versionCode": 67,
-  "versionName": "8.5",
-  "name": "VoxelDere AI 8.5",
+  "versionCode": 68,
+  "versionName": "8.6",
+  "name": "VoxelDere AI 8.6",
   "at": "2026-09-19",
-  "file": "https://github.com/xivionisnothere-droid/yandere-updates/releases/download/v67/yandere-forge.apk",
-  "view": "https://github.com/xivionisnothere-droid/yandere-updates/releases/tag/v67",
-  "note": "Guest UPDATE checks for a new APK and opens it. Does not rewrite their songs."
+  "file": "https://github.com/xivionisnothere-droid/yandere-updates/releases/download/v68/yandere-forge.apk",
+  "view": "https://github.com/xivionisnothere-droid/yandere-updates/releases/tag/v68",
+  "note": "OpenRouter tutorial now includes 18+ attestations in account preferences."
 }
