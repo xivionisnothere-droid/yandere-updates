@@ -1,9 +1,9 @@
 {
-  "versionCode": 42,
-  "versionName": "6.0",
-  "name": "VoxelDere AI 6.0",
+  "versionCode": 43,
+  "versionName": "6.1",
+  "name": "VoxelDere AI 6.1",
   "at": "2026-09-19",
-  "file": "https://github.com/xivionisnothere-droid/yandere-updates/releases/download/v42/yandere-forge.apk",
-  "view": "https://github.com/xivionisnothere-droid/yandere-updates/releases/tag/v42",
-  "note": "SETTINGS Log out to guest."
+  "file": "https://github.com/xivionisnothere-droid/yandere-updates/releases/download/v43/yandere-forge.apk",
+  "view": "https://github.com/xivionisnothere-droid/yandere-updates/releases/tag/v43",
+  "note": "INSTALL UPDATE for guest and owner. Daily pass owner-only."
 }
