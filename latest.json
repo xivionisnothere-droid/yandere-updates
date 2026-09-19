@@ -1,9 +1,9 @@
 {
-  "versionCode": 45,
-  "versionName": "6.3",
-  "name": "VoxelDere AI 6.3",
+  "versionCode": 46,
+  "versionName": "6.4",
+  "name": "VoxelDere AI 6.4",
   "at": "2026-09-19",
-  "file": "https://github.com/xivionisnothere-droid/yandere-updates/releases/download/v45/yandere-forge.apk",
-  "view": "https://github.com/xivionisnothere-droid/yandere-updates/releases/tag/v45",
-  "note": "Guest tutorial. Vox."
+  "file": "https://github.com/xivionisnothere-droid/yandere-updates/releases/download/v46/yandere-forge.apk",
+  "view": "https://github.com/xivionisnothere-droid/yandere-updates/releases/tag/v46",
+  "note": "Vox explains a tab only when a guest opens it."
 }
