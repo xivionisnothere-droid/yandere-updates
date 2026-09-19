@@ -1,9 +1,9 @@
 {
-  "versionCode": 70,
-  "versionName": "8.8",
-  "name": "VoxelDere AI 8.8",
+  "versionCode": 71,
+  "versionName": "8.9",
+  "name": "VoxelDere AI 8.9",
   "at": "2026-09-19",
-  "file": "https://github.com/xivionisnothere-droid/yandere-updates/releases/download/v70/yandere-forge.apk",
-  "view": "https://github.com/xivionisnothere-droid/yandere-updates/releases/tag/v70",
-  "note": "Owner desk gets guest fixes: THE NOTE, DATE button, 18+ LAB, UPDATE opens APK."
+  "file": "https://github.com/xivionisnothere-droid/yandere-updates/releases/download/v71/yandere-forge.apk",
+  "view": "https://github.com/xivionisnothere-droid/yandere-updates/releases/tag/v71",
+  "note": "Automations locked. Daily pass no longer rewrites the current song."
 }
