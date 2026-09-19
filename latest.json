@@ -1,9 +1,9 @@
 {
-  "versionCode": 55,
-  "versionName": "7.3",
-  "name": "VoxelDere AI 7.3",
+  "versionCode": 56,
+  "versionName": "7.4",
+  "name": "VoxelDere AI 7.4",
   "at": "2026-09-19",
-  "file": "https://github.com/xivionisnothere-droid/yandere-updates/releases/download/v55/yandere-forge.apk",
-  "view": "https://github.com/xivionisnothere-droid/yandere-updates/releases/tag/v55",
-  "note": "LAB scrolls on the phone. Not the desk behind it."
+  "file": "https://github.com/xivionisnothere-droid/yandere-updates/releases/download/v56/yandere-forge.apk",
+  "view": "https://github.com/xivionisnothere-droid/yandere-updates/releases/tag/v56",
+  "note": "Guest cover prompt follows the style they imported."
 }
