@@ -1,9 +1,9 @@
 {
-  "versionCode": 39,
-  "versionName": "5.7",
-  "name": "DESK 5.7",
+  "versionCode": 40,
+  "versionName": "5.8",
+  "name": "DESK 5.8",
   "at": "2026-09-19",
-  "file": "https://github.com/xivionisnothere-droid/yandere-updates/releases/download/v39/yandere-forge.apk",
-  "view": "https://github.com/xivionisnothere-droid/yandere-updates/releases/tag/v39",
-  "note": "Google save. Guest Drive restore."
+  "file": "https://github.com/xivionisnothere-droid/yandere-updates/releases/download/v40/yandere-forge.apk",
+  "view": "https://github.com/xivionisnothere-droid/yandere-updates/releases/tag/v40",
+  "note": "Guest FEEDBACK. Accept ships to builder."
 }
