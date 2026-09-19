@@ -1,9 +1,9 @@
 {
-  "versionCode": 35,
-  "versionName": "5.3",
-  "name": "DESK 5.3",
+  "versionCode": 36,
+  "versionName": "5.4",
+  "name": "DESK 5.4",
   "at": "2026-09-19",
-  "file": "https://github.com/xivionisnothere-droid/yandere-updates/releases/download/v35/yandere-forge.apk",
-  "view": "https://github.com/xivionisnothere-droid/yandere-updates/releases/tag/v35",
-  "note": "Guest desk. Import styles. Passcode is his."
+  "file": "https://github.com/xivionisnothere-droid/yandere-updates/releases/download/v36/yandere-forge.apk",
+  "view": "https://github.com/xivionisnothere-droid/yandere-updates/releases/tag/v36",
+  "note": "Guest OpenRouter. Crew sees only their desk."
 }
