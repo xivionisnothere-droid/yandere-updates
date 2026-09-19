@@ -1,9 +1,9 @@
 {
-  "versionCode": 66,
-  "versionName": "8.4",
-  "name": "VoxelDere AI 8.4",
+  "versionCode": 67,
+  "versionName": "8.5",
+  "name": "VoxelDere AI 8.5",
   "at": "2026-09-19",
-  "file": "https://github.com/xivionisnothere-droid/yandere-updates/releases/download/v66/yandere-forge.apk",
-  "view": "https://github.com/xivionisnothere-droid/yandere-updates/releases/tag/v66",
-  "note": "Vox NSFW no longer says she wants you."
+  "file": "https://github.com/xivionisnothere-droid/yandere-updates/releases/download/v67/yandere-forge.apk",
+  "view": "https://github.com/xivionisnothere-droid/yandere-updates/releases/tag/v67",
+  "note": "Guest UPDATE checks for a new APK and opens it. Does not rewrite their songs."
 }
