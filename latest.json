@@ -1,9 +1,9 @@
 {
-  "versionCode": 41,
-  "versionName": "5.9",
-  "name": "VoxelDere AI 5.9",
+  "versionCode": 42,
+  "versionName": "6.0",
+  "name": "VoxelDere AI 6.0",
   "at": "2026-09-19",
-  "file": "https://github.com/xivionisnothere-droid/yandere-updates/releases/download/v41/yandere-forge.apk",
-  "view": "https://github.com/xivionisnothere-droid/yandere-updates/releases/tag/v41",
-  "note": "VoxelDere AI. Release signed. Uninstall old debug first."
+  "file": "https://github.com/xivionisnothere-droid/yandere-updates/releases/download/v42/yandere-forge.apk",
+  "view": "https://github.com/xivionisnothere-droid/yandere-updates/releases/tag/v42",
+  "note": "SETTINGS Log out to guest."
 }
