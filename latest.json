@@ -1,9 +1,9 @@
 {
-  "versionCode": 62,
-  "versionName": "8.0",
-  "name": "VoxelDere AI 8.0",
+  "versionCode": 63,
+  "versionName": "8.1",
+  "name": "VoxelDere AI 8.1",
   "at": "2026-09-19",
-  "file": "https://github.com/xivionisnothere-droid/yandere-updates/releases/download/v62/yandere-forge.apk",
-  "view": "https://github.com/xivionisnothere-droid/yandere-updates/releases/tag/v62",
-  "note": "Speaker mutes punches, drone, settings, and the AMBIENT bar."
+  "file": "https://github.com/xivionisnothere-droid/yandere-updates/releases/download/v63/yandere-forge.apk",
+  "view": "https://github.com/xivionisnothere-droid/yandere-updates/releases/tag/v63",
+  "note": "Intro zooms at YANDERE and cuts before it hits the word."
 }
