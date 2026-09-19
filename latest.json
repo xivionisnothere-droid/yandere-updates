@@ -1,10 +1,10 @@
 {
-  "versionCode": 85,
-  "versionName": "10.3",
-  "name": "VoxelDere AI 10.3",
+  "versionCode": 86,
+  "versionName": "10.4",
+  "name": "VoxelDere AI 10.4",
   "at": "2026-09-19",
-  "file": "https://github.com/xivionisnothere-droid/yandere-updates/releases/download/v85/yandere-forge.apk",
-  "view": "https://github.com/xivionisnothere-droid/yandere-updates/releases/tag/v85",
-  "sha256": "099f288a626b7a5b0955262063b93f98deb5f47fb7f880b939b7a01e6da209bb",
-  "note": "Stolen loot remembers who. STEAL HUD uses their pronouns. DATE knows if it's theirs."
+  "file": "https://github.com/xivionisnothere-droid/yandere-updates/releases/download/v86/yandere-forge.apk",
+  "view": "https://github.com/xivionisnothere-droid/yandere-updates/releases/tag/v86",
+  "sha256": "4ac86d1d711377ae09e5205ea2d6116fe1bbbc96cb6155c53e96fe9a95d4eaa2",
+  "note": "DATE opener stays. First SAY continues that cold line."
 }
