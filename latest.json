@@ -1,9 +1,9 @@
 {
-  "versionCode": 44,
-  "versionName": "6.2",
-  "name": "VoxelDere AI 6.2",
+  "versionCode": 45,
+  "versionName": "6.3",
+  "name": "VoxelDere AI 6.3",
   "at": "2026-09-19",
-  "file": "https://github.com/xivionisnothere-droid/yandere-updates/releases/download/v44/yandere-forge.apk",
-  "view": "https://github.com/xivionisnothere-droid/yandere-updates/releases/tag/v44",
-  "note": "Guest styles blank. Creative/studio split from owner."
+  "file": "https://github.com/xivionisnothere-droid/yandere-updates/releases/download/v45/yandere-forge.apk",
+  "view": "https://github.com/xivionisnothere-droid/yandere-updates/releases/tag/v45",
+  "note": "Guest tutorial. Vox."
 }
