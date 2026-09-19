@@ -1,9 +1,9 @@
 {
-  "versionCode": 38,
-  "versionName": "5.6",
-  "name": "DESK 5.6",
+  "versionCode": 39,
+  "versionName": "5.7",
+  "name": "DESK 5.7",
   "at": "2026-09-19",
-  "file": "https://github.com/xivionisnothere-droid/yandere-updates/releases/download/v38/yandere-forge.apk",
-  "view": "https://github.com/xivionisnothere-droid/yandere-updates/releases/tag/v38",
-  "note": "Guest import: I don't know what I'm doing."
+  "file": "https://github.com/xivionisnothere-droid/yandere-updates/releases/download/v39/yandere-forge.apk",
+  "view": "https://github.com/xivionisnothere-droid/yandere-updates/releases/tag/v39",
+  "note": "Google save. Guest Drive restore."
 }
