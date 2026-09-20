@@ -1,10 +1,10 @@
 {
-  "versionCode": 116,
-  "versionName": "10.34",
-  "name": "DESK 10.34",
+  "versionCode": 117,
+  "versionName": "10.35",
+  "name": "DESK 10.35",
   "at": "2026-09-20",
-  "file": "https://github.com/xivionisnothere-droid/yandere-updates/releases/download/v116/yandere-forge.apk",
-  "view": "https://github.com/xivionisnothere-droid/yandere-updates/releases/tag/v116",
-  "note": "Rain sits on the glass. Keep pulling the page and it glitches you back.",
-  "sha256": "d44dcf5b9b27137e3653c36002941a35b93559c07a418917b056088fc58f465a"
+  "file": "https://github.com/xivionisnothere-droid/yandere-updates/releases/download/v117/yandere-forge.apk",
+  "view": "https://github.com/xivionisnothere-droid/yandere-updates/releases/tag/v117",
+  "note": "PC fills the monitor. Phone tab stays stacked. Settings can switch PC/phone. GFX LOW on PC is potato PCs.",
+  "sha256": "4deb102bb7ca609c3c2ea0de47841482a9c8153b41e7a584e53ddac037e0e675"
 }
