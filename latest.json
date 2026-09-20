@@ -1,10 +1,10 @@
 {
-  "versionCode": 109,
-  "versionName": "10.27",
-  "name": "DESK 10.27",
+  "versionCode": 108,
+  "versionName": "10.26",
+  "name": "DESK 10.26",
   "at": "2026-09-20",
-  "file": "https://github.com/xivionisnothere-droid/yandere-updates/releases/download/v109/yandere-forge.apk",
-  "view": "https://github.com/xivionisnothere-droid/yandere-updates/releases/tag/v109",
-  "note": "Guest Ask Vox never says GET APK or GAME.",
-  "sha256": "93734c1488bed4b9c75bd746e2e8c781dd7bf1f8e751a254ca0f6f1915677886"
+  "file": "https://github.com/xivionisnothere-droid/yandere-updates/releases/download/v108/yandere-forge.apk",
+  "view": "https://github.com/xivionisnothere-droid/yandere-updates/releases/tag/v108",
+  "note": "LOOK hidden until NSFW. i already know dismisses every tutorial. Guest copy has no GAME.",
+  "sha256": "7fee2b5ddd7d4e5f151cb693ed27976fc977cc43580ba85caa690c24f8a7fdfa"
 }
