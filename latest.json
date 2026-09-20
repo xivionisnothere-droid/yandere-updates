@@ -1,10 +1,10 @@
 {
-  "versionCode": 111,
-  "versionName": "10.29",
-  "name": "DESK 10.29",
+  "versionCode": 112,
+  "versionName": "10.30",
+  "name": "DESK 10.30",
   "at": "2026-09-20",
-  "file": "https://github.com/xivionisnothere-droid/yandere-updates/releases/download/v111/yandere-forge.apk",
-  "view": "https://github.com/xivionisnothere-droid/yandere-updates/releases/tag/v111",
-  "note": "NSFW paints white/dark-red lust. Owner desk is lit. Graphics LOW/MID/HIGH/GOD actually differ.",
-  "sha256": "54e27b08a432b1942929fbd52be6a43f33b10a8647e7452b59b2b0a05f2def40"
+  "file": "https://github.com/xivionisnothere-droid/yandere-updates/releases/download/v112/yandere-forge.apk",
+  "view": "https://github.com/xivionisnothere-droid/yandere-updates/releases/tag/v112",
+  "note": "Clothed women match their NSFW faces. NSFW portraits were not touched.",
+  "sha256": "90176b4bf04016bf9a0bc5d2949bc4c7ccbf183af02df3c96e510faf2915d4b2"
 }
