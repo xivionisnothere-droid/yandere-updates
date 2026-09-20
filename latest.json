@@ -1,10 +1,10 @@
 {
-  "versionCode": 120,
-  "versionName": "10.38",
-  "name": "DESK 10.38",
+  "versionCode": 121,
+  "versionName": "10.39",
+  "name": "DESK 10.39",
   "at": "2026-09-20",
-  "file": "https://github.com/xivionisnothere-droid/yandere-updates/releases/download/v120/voxdere-ai-10.38.apk",
-  "view": "https://github.com/xivionisnothere-droid/yandere-updates/releases/tag/v120",
-  "note": "Rain behind the type. Tilt the phone. Yandere blood. NSFW sticky white. DATE love can go mad. This desk is 10.38.",
-  "sha256": "3ef3d1c0104d4a3611b561f4afb9792ab0d6a21f919941562f473b124a57ad5d"
+  "file": "https://github.com/xivionisnothere-droid/yandere-updates/releases/download/v121/voxdere-ai-10.39.apk",
+  "view": "https://github.com/xivionisnothere-droid/yandere-updates/releases/tag/v121",
+  "note": "Guest lock: Continue as Guest. No owner, no Yandere, no GET APK on the lock.",
+  "sha256": "901933f4ff0f6c4a9ca388657301598fb5cf9c0e148babdb04f9048bda1ada03"
 }
