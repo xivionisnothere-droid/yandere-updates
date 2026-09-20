@@ -1,10 +1,10 @@
 {
-  "versionCode": 93,
-  "versionName": "10.11",
-  "name": "DESK 10.11",
+  "versionCode": 94,
+  "versionName": "10.12",
+  "name": "DESK 10.12",
   "at": "2026-09-20",
-  "file": "https://github.com/xivionisnothere-droid/yandere-updates/releases/download/v93/yandere-forge.apk",
-  "view": "https://github.com/xivionisnothere-droid/yandere-updates/releases/tag/v93",
-  "note": "DATE men look like men. Nudes from their portraits.",
-  "sha256": "2d268593c90fc9872075bc5d26bb008bcb5a2acc5e84e4b79ba98d0ea2056e88"
+  "file": "https://github.com/xivionisnothere-droid/yandere-updates/releases/download/v94/yandere-forge.apk",
+  "view": "https://github.com/xivionisnothere-droid/yandere-updates/releases/tag/v94",
+  "note": "DATE guys stay nude when NSFW is on. No more flashing back to clothes.",
+  "sha256": "ec23b9f7f5b2e50ea2d00eb4d87121af6b82c721e9f89b5d62544ac7967be47e"
 }
