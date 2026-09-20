@@ -1,10 +1,10 @@
 {
-  "versionCode": 104,
-  "versionName": "10.22",
-  "name": "DESK 10.22",
+  "versionCode": 105,
+  "versionName": "10.23",
+  "name": "DESK 10.23",
   "at": "2026-09-20",
-  "file": "https://github.com/xivionisnothere-droid/yandere-updates/releases/download/v104/yandere-forge.apk",
-  "view": "https://github.com/xivionisnothere-droid/yandere-updates/releases/tag/v104",
-  "note": "Intro is the desk now. Not a hallway.",
-  "sha256": "bde5fb8f76d9e25088d7801e4dd10775cab72eeaec05067c6a1ed801febef449"
+  "file": "https://github.com/xivionisnothere-droid/yandere-updates/releases/download/v105/yandere-forge.apk",
+  "view": "https://github.com/xivionisnothere-droid/yandere-updates/releases/tag/v105",
+  "note": "Yandere HUD actually mounts. Vox talks on every tab. Random mouths.",
+  "sha256": "b69c16dc544d1a5aca7ddc6600a0cc3ecfc1adbc9a29d9416cdcec1b3c1a8ec1"
 }
