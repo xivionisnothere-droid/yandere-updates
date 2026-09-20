@@ -1,10 +1,10 @@
 {
-  "versionCode": 90,
-  "versionName": "10.8",
-  "name": "DESK 10.8",
+  "versionCode": 91,
+  "versionName": "10.9",
+  "name": "DESK 10.9",
   "at": "2026-09-20",
-  "file": "https://github.com/xivionisnothere-droid/yandere-updates/releases/download/v90/yandere-forge.apk",
-  "view": "https://github.com/xivionisnothere-droid/yandere-updates/releases/tag/v90",
-  "note": "Rook Lumen Nyx actually undress on NSFW.",
-  "sha256": "18646afcc8f77a9568d946b39c51dcf3c4d9e2d1b36897ab36a827e76ae16b3d"
+  "file": "https://github.com/xivionisnothere-droid/yandere-updates/releases/download/v91/yandere-forge.apk",
+  "view": "https://github.com/xivionisnothere-droid/yandere-updates/releases/tag/v91",
+  "note": "Rook Lumen Nyx generated nude from their portraits. Vox stays clothed off, nude on.",
+  "sha256": "c2ae494715c24bd90118ee2b3e161ddb75287be34115ef06b9dd588fda2a7407"
 }
