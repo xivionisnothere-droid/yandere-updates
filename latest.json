@@ -1,11 +1,10 @@
 {
-  "versionCode": 122,
-  "versionName": "10.40",
-  "name": "DESK 10.40",
+  "versionCode": 123,
+  "versionName": "10.41",
+  "name": "DESK 10.41",
   "at": "2026-09-20",
-  "file": "https://github.com/xivionisnothere-droid/yandere-updates/releases/download/v122/voxdere-ai-10.40.apk",
-  "view": "https://github.com/xivionisnothere-droid/yandere-updates/releases/tag/v122",
-  "note": "ASK VOX sits above the tutorial. Guest DATE help does not talk LOOK nudes.",
-  "sha256": "e3f7bb960fc5313a318a78964d90342684cb13738dfa29b35e52edbebaea0e9e"
+  "file": "https://github.com/xivionisnothere-droid/yandere-updates/releases/download/v123/voxdere-ai-10.41.apk",
+  "view": "https://github.com/xivionisnothere-droid/yandere-updates/releases/tag/v123",
+  "note": "Lyria clip streams your words. Studio 2.0 jobs, no spin. Landscape. Owner has no DATE.",
+  "sha256": "656f4854b35fe2e6a1099bcf736783278b76c04faa65282cb74a67666650a845"
 }
-
