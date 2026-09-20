@@ -1,10 +1,10 @@
 {
-  "versionCode": 115,
-  "versionName": "10.33",
-  "name": "DESK 10.33",
+  "versionCode": 116,
+  "versionName": "10.34",
+  "name": "DESK 10.34",
   "at": "2026-09-20",
-  "file": "https://github.com/xivionisnothere-droid/yandere-updates/releases/download/v115/yandere-forge.apk",
-  "view": "https://github.com/xivionisnothere-droid/yandere-updates/releases/tag/v115",
-  "note": "Yandere copy quest: going to SONG is obedience. Mad buttons fall off until you do what she asked.",
-  "sha256": "52bf537472afd56f5a99f6b5e3a6d8d1318b43b0ffe4646f4324d79239a27a5e"
+  "file": "https://github.com/xivionisnothere-droid/yandere-updates/releases/download/v116/yandere-forge.apk",
+  "view": "https://github.com/xivionisnothere-droid/yandere-updates/releases/tag/v116",
+  "note": "Rain sits on the glass. Keep pulling the page and it glitches you back.",
+  "sha256": "d44dcf5b9b27137e3653c36002941a35b93559c07a418917b056088fc58f465a"
 }
