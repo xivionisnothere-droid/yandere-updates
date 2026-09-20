@@ -1,10 +1,10 @@
 {
-  "versionCode": 117,
-  "versionName": "10.35",
-  "name": "DESK 10.35",
+  "versionCode": 118,
+  "versionName": "10.36",
+  "name": "DESK 10.36",
   "at": "2026-09-20",
-  "file": "https://github.com/xivionisnothere-droid/yandere-updates/releases/download/v117/yandere-forge.apk",
-  "view": "https://github.com/xivionisnothere-droid/yandere-updates/releases/tag/v117",
-  "note": "PC fills the monitor. Phone tab stays stacked. Settings can switch PC/phone. GFX LOW on PC is potato PCs.",
-  "sha256": "4deb102bb7ca609c3c2ea0de47841482a9c8153b41e7a584e53ddac037e0e675"
+  "file": "https://github.com/xivionisnothere-droid/yandere-updates/releases/download/v118/voxdere-ai-10.36.apk",
+  "view": "https://github.com/xivionisnothere-droid/yandere-updates/releases/tag/v118",
+  "note": "Guest lock does not say owner or Yandere. Continue as Guest. No GET APK on the lock.",
+  "sha256": "b63b5ed08f7bb4ebdccc019c2caa90ee315c7fa1137bd5dd289766a0b1d8f38f"
 }
