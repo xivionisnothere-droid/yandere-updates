@@ -1,10 +1,10 @@
 {
-  "versionCode": 114,
-  "versionName": "10.32",
-  "name": "DESK 10.32",
+  "versionCode": 115,
+  "versionName": "10.33",
+  "name": "DESK 10.33",
   "at": "2026-09-20",
-  "file": "https://github.com/xivionisnothere-droid/yandere-updates/releases/download/v114/yandere-forge.apk",
-  "view": "https://github.com/xivionisnothere-droid/yandere-updates/releases/tag/v114",
-  "note": "Drum grid is longer and smarter. WAV download works. Crew + Lyria clip. Suno style cap is 1000.",
-  "sha256": "c3c94843314d6c63975cbf70a53b7df51fe0805de3e0a860834cd251c755ef12"
+  "file": "https://github.com/xivionisnothere-droid/yandere-updates/releases/download/v115/yandere-forge.apk",
+  "view": "https://github.com/xivionisnothere-droid/yandere-updates/releases/tag/v115",
+  "note": "Yandere copy quest: going to SONG is obedience. Mad buttons fall off until you do what she asked.",
+  "sha256": "52bf537472afd56f5a99f6b5e3a6d8d1318b43b0ffe4646f4324d79239a27a5e"
 }
