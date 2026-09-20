@@ -1,10 +1,10 @@
 {
-  "versionCode": 107,
-  "versionName": "10.25",
-  "name": "DESK 10.25",
+  "versionCode": 108,
+  "versionName": "10.26",
+  "name": "DESK 10.26",
   "at": "2026-09-20",
-  "file": "https://github.com/xivionisnothere-droid/yandere-updates/releases/download/v107/yandere-forge.apk",
-  "view": "https://github.com/xivionisnothere-droid/yandere-updates/releases/tag/v107",
-  "note": "Yandere heat stays. Obeying her tab is not a skip. Desk breaks red.",
-  "sha256": "82f82c4a398eafdcc32b03556733c808eeaa6a20a6a05a91d4b57892b42a6014"
+  "file": "https://github.com/xivionisnothere-droid/yandere-updates/releases/download/v108/yandere-forge.apk",
+  "view": "https://github.com/xivionisnothere-droid/yandere-updates/releases/tag/v108",
+  "note": "Guest lock does not say his, owner, or Yandere. No GET APK on the guest path.",
+  "sha256": "2d5d7aee5ab626b38b141e01a75ed229ca55d108b8ba46106213f47201b81fbc"
 }
