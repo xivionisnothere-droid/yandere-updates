@@ -1,10 +1,10 @@
 {
-  "versionCode": 123,
-  "versionName": "10.41",
-  "name": "DESK 10.41",
+  "versionCode": 124,
+  "versionName": "10.42",
+  "name": "DESK 10.42",
   "at": "2026-09-20",
-  "file": "https://github.com/xivionisnothere-droid/yandere-updates/releases/download/v123/voxdere-ai-10.41.apk",
-  "view": "https://github.com/xivionisnothere-droid/yandere-updates/releases/tag/v123",
-  "note": "Lyria clip streams your words. Studio 2.0 jobs, no spin. Landscape. Owner has no DATE.",
-  "sha256": "656f4854b35fe2e6a1099bcf736783278b76c04faa65282cb74a67666650a845"
+  "file": "https://github.com/xivionisnothere-droid/yandere-updates/releases/download/v124/voxdere-ai-10.42.apk",
+  "view": "https://github.com/xivionisnothere-droid/yandere-updates/releases/tag/v124",
+  "note": "Guest lock is Continue as Guest. No owner, Yandere, or GET APK on the lock. Desk key stays.",
+  "sha256": "f2ac30a396777fc2ca18dadbdde9dda268e21d067ea35b96a17526bc4d8e119a"
 }
