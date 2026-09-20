@@ -1,10 +1,10 @@
 {
-  "versionCode": 89,
-  "versionName": "10.7",
-  "name": "DESK 10.7",
+  "versionCode": 90,
+  "versionName": "10.8",
+  "name": "DESK 10.8",
   "at": "2026-09-20",
-  "file": "https://github.com/xivionisnothere-droid/yandere-updates/releases/download/v89/yandere-forge.apk",
-  "view": "https://github.com/xivionisnothere-droid/yandere-updates/releases/tag/v89",
-  "note": "NSFW OFF keeps clothes on. No leftover nudes.",
-  "sha256": "738c3e34b0d409e16a6e3947143cb799b0bd8f606824ff746c65197b69f6741c"
+  "file": "https://github.com/xivionisnothere-droid/yandere-updates/releases/download/v90/yandere-forge.apk",
+  "view": "https://github.com/xivionisnothere-droid/yandere-updates/releases/tag/v90",
+  "note": "Rook Lumen Nyx actually undress on NSFW.",
+  "sha256": "18646afcc8f77a9568d946b39c51dcf3c4d9e2d1b36897ab36a827e76ae16b3d"
 }
