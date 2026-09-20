@@ -1,10 +1,10 @@
 {
-  "versionCode": 110,
-  "versionName": "10.28",
-  "name": "DESK 10.28",
+  "versionCode": 111,
+  "versionName": "10.29",
+  "name": "DESK 10.29",
   "at": "2026-09-20",
-  "file": "https://github.com/xivionisnothere-droid/yandere-updates/releases/download/v110/yandere-forge.apk",
-  "view": "https://github.com/xivionisnothere-droid/yandere-updates/releases/tag/v110",
-  "note": "DATE AFTER HOURS sits above the portrait, not under it.",
-  "sha256": "a424c2b0e16537e053c6e4fe22b82d31aeca3fd5f9f1421182d360b323910932"
+  "file": "https://github.com/xivionisnothere-droid/yandere-updates/releases/download/v111/yandere-forge.apk",
+  "view": "https://github.com/xivionisnothere-droid/yandere-updates/releases/tag/v111",
+  "note": "NSFW paints white/dark-red lust. Owner desk is lit. Graphics LOW/MID/HIGH/GOD actually differ.",
+  "sha256": "54e27b08a432b1942929fbd52be6a43f33b10a8647e7452b59b2b0a05f2def40"
 }
