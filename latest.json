@@ -1,10 +1,10 @@
 {
-  "versionCode": 106,
-  "versionName": "10.24",
-  "name": "DESK 10.24",
+  "versionCode": 107,
+  "versionName": "10.25",
+  "name": "DESK 10.25",
   "at": "2026-09-20",
-  "file": "https://github.com/xivionisnothere-droid/yandere-updates/releases/download/v106/yandere-forge.apk",
-  "view": "https://github.com/xivionisnothere-droid/yandere-updates/releases/tag/v106",
-  "note": "PC or phone first. 18+ before intro. NSFW hidden until yes. Browser save.",
-  "sha256": "4d6f698d7c57e5d6f57fa2766e331e9ff082130f1a55efd87497bb18bf6e19c0"
+  "file": "https://github.com/xivionisnothere-droid/yandere-updates/releases/download/v107/yandere-forge.apk",
+  "view": "https://github.com/xivionisnothere-droid/yandere-updates/releases/tag/v107",
+  "note": "Guest lock does not say his, owner, or Yandere. No GET APK on the guest path.",
+  "sha256": "8ed90a9d8099c76c5304af9070ba6f4d49146fb6f22fa9cfc3b6276f4aa9c5bc"
 }
