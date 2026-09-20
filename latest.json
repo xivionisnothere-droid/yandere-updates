@@ -1,10 +1,10 @@
 {
-  "versionCode": 112,
-  "versionName": "10.30",
-  "name": "DESK 10.30",
+  "versionCode": 113,
+  "versionName": "10.31",
+  "name": "DESK 10.31",
   "at": "2026-09-20",
-  "file": "https://github.com/xivionisnothere-droid/yandere-updates/releases/download/v112/yandere-forge.apk",
-  "view": "https://github.com/xivionisnothere-droid/yandere-updates/releases/tag/v112",
-  "note": "Clothed women match their NSFW faces. NSFW portraits were not touched.",
-  "sha256": "90176b4bf04016bf9a0bc5d2949bc4c7ccbf183af02df3c96e510faf2915d4b2"
+  "file": "https://github.com/xivionisnothere-droid/yandere-updates/releases/download/v113/yandere-forge.apk",
+  "view": "https://github.com/xivionisnothere-droid/yandere-updates/releases/tag/v113",
+  "note": "Hourly screens guest FEEDBACK. Junk is dumped. Real bugs pop on your desk.",
+  "sha256": "35b0fb8ac6206c497ebcee65cea0f33ceea444a3c38808bd304cd9543dbb8168"
 }
