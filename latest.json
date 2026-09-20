@@ -1,10 +1,10 @@
 {
-  "versionCode": 103,
-  "versionName": "10.21",
-  "name": "DESK 10.21",
+  "versionCode": 104,
+  "versionName": "10.22",
+  "name": "DESK 10.22",
   "at": "2026-09-20",
-  "file": "https://github.com/xivionisnothere-droid/yandere-updates/releases/download/v103/yandere-forge.apk",
-  "view": "https://github.com/xivionisnothere-droid/yandere-updates/releases/tag/v103",
-  "note": "NSFW stays off until they tick 18+ and take the lie.",
-  "sha256": "66f2fdaaead1c3917cd63aaa0086af0c5dd82c1a681f2fd63b4dabcfcd4da685"
+  "file": "https://github.com/xivionisnothere-droid/yandere-updates/releases/download/v104/yandere-forge.apk",
+  "view": "https://github.com/xivionisnothere-droid/yandere-updates/releases/tag/v104",
+  "note": "Intro is the desk now. Not a hallway.",
+  "sha256": "bde5fb8f76d9e25088d7801e4dd10775cab72eeaec05067c6a1ed801febef449"
 }
