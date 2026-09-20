@@ -1,10 +1,10 @@
 {
-  "versionCode": 87,
-  "versionName": "10.5",
-  "name": "VoxelDere AI 10.5",
+  "versionCode": 88,
+  "versionName": "10.6",
+  "name": "DESK 10.6",
   "at": "2026-09-20",
-  "file": "https://github.com/xivionisnothere-droid/yandere-updates/releases/download/v87/yandere-forge.apk",
-  "view": "https://github.com/xivionisnothere-droid/yandere-updates/releases/tag/v87",
-  "sha256": "ca3c5771554c07781b254237d39b5e0b959b5e0008fec2a71d1a7fb7f5af3706",
-  "note": "Your desk is a camera now. Six more DATE people. NSFW covers the rest of the cast plus Vox. Guest still RGB."
+  "file": "https://github.com/xivionisnothere-droid/yandere-updates/releases/download/v88/yandere-forge.apk",
+  "view": "https://github.com/xivionisnothere-droid/yandere-updates/releases/tag/v88",
+  "note": "Five tabs. One Ask Vox. Real DATE nudes. Beginner desk.",
+  "sha256": "19aa45b5eed84239e3745e7ea448534bb8bca392444633729ca8169147352ea9"
 }
