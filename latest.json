@@ -1,10 +1,10 @@
 {
-  "versionCode": 100,
-  "versionName": "10.18",
-  "name": "DESK 10.18",
+  "versionCode": 101,
+  "versionName": "10.19",
+  "name": "DESK 10.19",
   "at": "2026-09-20",
-  "file": "https://github.com/xivionisnothere-droid/yandere-updates/releases/download/v100/yandere-forge.apk",
-  "view": "https://github.com/xivionisnothere-droid/yandere-updates/releases/tag/v100",
-  "note": "Owner lock freeze. Desk key. I forgot.",
-  "sha256": "34122f2ef07eadaa96b6edfba1a0549ec0dfaac934ad0e7606f141a86e080682"
+  "file": "https://github.com/xivionisnothere-droid/yandere-updates/releases/download/v101/yandere-forge.apk",
+  "view": "https://github.com/xivionisnothere-droid/yandere-updates/releases/tag/v101",
+  "note": "VoxDereAi.",
+  "sha256": "c5e99267dbff0dc9324ebce04067e5fb43fb8b4fcdfc206e09c171cc2f0f4d23"
 }
