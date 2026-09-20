@@ -1,10 +1,10 @@
 {
-  "versionCode": 102,
-  "versionName": "10.20",
-  "name": "DESK 10.20",
+  "versionCode": 103,
+  "versionName": "10.21",
+  "name": "DESK 10.21",
   "at": "2026-09-20",
-  "file": "https://github.com/xivionisnothere-droid/yandere-updates/releases/download/v102/yandere-forge.apk",
-  "view": "https://github.com/xivionisnothere-droid/yandere-updates/releases/tag/v102",
-  "note": "Yandere Mode is a cursed desk game. Vox is a girl.",
-  "sha256": "d70904b445ea3054fcabfdb484cfc1c9b8752b6c8e0afad9ed2b3cc36a3b59f6"
+  "file": "https://github.com/xivionisnothere-droid/yandere-updates/releases/download/v103/yandere-forge.apk",
+  "view": "https://github.com/xivionisnothere-droid/yandere-updates/releases/tag/v103",
+  "note": "NSFW stays off until they tick 18+ and take the lie.",
+  "sha256": "66f2fdaaead1c3917cd63aaa0086af0c5dd82c1a681f2fd63b4dabcfcd4da685"
 }
