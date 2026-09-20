@@ -1,10 +1,10 @@
 {
-  "versionCode": 113,
-  "versionName": "10.31",
-  "name": "DESK 10.31",
+  "versionCode": 114,
+  "versionName": "10.32",
+  "name": "DESK 10.32",
   "at": "2026-09-20",
-  "file": "https://github.com/xivionisnothere-droid/yandere-updates/releases/download/v113/yandere-forge.apk",
-  "view": "https://github.com/xivionisnothere-droid/yandere-updates/releases/tag/v113",
-  "note": "Hourly screens guest FEEDBACK. Junk is dumped. Real bugs pop on your desk.",
-  "sha256": "35b0fb8ac6206c497ebcee65cea0f33ceea444a3c38808bd304cd9543dbb8168"
+  "file": "https://github.com/xivionisnothere-droid/yandere-updates/releases/download/v114/yandere-forge.apk",
+  "view": "https://github.com/xivionisnothere-droid/yandere-updates/releases/tag/v114",
+  "note": "Drum grid is longer and smarter. WAV download works. Crew + Lyria clip. Suno style cap is 1000.",
+  "sha256": "c3c94843314d6c63975cbf70a53b7df51fe0805de3e0a860834cd251c755ef12"
 }
