@@ -1,10 +1,10 @@
 {
-  "versionCode": 109,
-  "versionName": "10.27",
-  "name": "DESK 10.27",
+  "versionCode": 110,
+  "versionName": "10.28",
+  "name": "DESK 10.28",
   "at": "2026-09-20",
-  "file": "https://github.com/xivionisnothere-droid/yandere-updates/releases/download/v109/yandere-forge.apk",
-  "view": "https://github.com/xivionisnothere-droid/yandere-updates/releases/tag/v109",
-  "note": "NSFW men keep their original faces. Same age. Not swapped.",
-  "sha256": "3f054abbcbd071f7d8cf2b08305de4390ca14be35246003035037351e9f2f89a"
+  "file": "https://github.com/xivionisnothere-droid/yandere-updates/releases/download/v110/yandere-forge.apk",
+  "view": "https://github.com/xivionisnothere-droid/yandere-updates/releases/tag/v110",
+  "note": "DATE AFTER HOURS sits above the portrait, not under it.",
+  "sha256": "a424c2b0e16537e053c6e4fe22b82d31aeca3fd5f9f1421182d360b323910932"
 }
