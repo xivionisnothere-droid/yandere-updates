@@ -1,10 +1,10 @@
 {
-  "versionCode": 108,
-  "versionName": "10.26",
-  "name": "DESK 10.26",
+  "versionCode": 109,
+  "versionName": "10.27",
+  "name": "DESK 10.27",
   "at": "2026-09-20",
-  "file": "https://github.com/xivionisnothere-droid/yandere-updates/releases/download/v108/yandere-forge.apk",
-  "view": "https://github.com/xivionisnothere-droid/yandere-updates/releases/tag/v108",
-  "note": "Guest lock does not say his, owner, or Yandere. No GET APK on the guest path.",
-  "sha256": "2d5d7aee5ab626b38b141e01a75ed229ca55d108b8ba46106213f47201b81fbc"
+  "file": "https://github.com/xivionisnothere-droid/yandere-updates/releases/download/v109/yandere-forge.apk",
+  "view": "https://github.com/xivionisnothere-droid/yandere-updates/releases/tag/v109",
+  "note": "Guest Ask Vox never says GET APK or GAME.",
+  "sha256": "93734c1488bed4b9c75bd746e2e8c781dd7bf1f8e751a254ca0f6f1915677886"
 }
