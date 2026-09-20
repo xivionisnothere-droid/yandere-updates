@@ -1,10 +1,11 @@
 {
-  "versionCode": 121,
-  "versionName": "10.39",
-  "name": "DESK 10.39",
+  "versionCode": 122,
+  "versionName": "10.40",
+  "name": "DESK 10.40",
   "at": "2026-09-20",
-  "file": "https://github.com/xivionisnothere-droid/yandere-updates/releases/download/v121/voxdere-ai-10.39.apk",
-  "view": "https://github.com/xivionisnothere-droid/yandere-updates/releases/tag/v121",
-  "note": "Guest lock: Continue as Guest. No owner, no Yandere, no GET APK on the lock.",
-  "sha256": "901933f4ff0f6c4a9ca388657301598fb5cf9c0e148babdb04f9048bda1ada03"
+  "file": "https://github.com/xivionisnothere-droid/yandere-updates/releases/download/v122/voxdere-ai-10.40.apk",
+  "view": "https://github.com/xivionisnothere-droid/yandere-updates/releases/tag/v122",
+  "note": "ASK VOX sits above the tutorial. Guest DATE help does not talk LOOK nudes.",
+  "sha256": "e3f7bb960fc5313a318a78964d90342684cb13738dfa29b35e52edbebaea0e9e"
 }
+
