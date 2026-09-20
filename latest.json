@@ -1,10 +1,10 @@
 {
-  "versionCode": 97,
-  "versionName": "10.15",
-  "name": "DESK 10.15",
+  "versionCode": 98,
+  "versionName": "10.16",
+  "name": "DESK 10.16",
   "at": "2026-09-20",
-  "file": "https://github.com/xivionisnothere-droid/yandere-updates/releases/download/v97/yandere-forge.apk",
-  "view": "https://github.com/xivionisnothere-droid/yandere-updates/releases/tag/v97",
-  "note": "Vox talks in a tiny girl mouth. Not a keyboard.",
-  "sha256": "e2797bf2ea2539c78bbb3c31f82f15139f97c204e33aa46c89cf10fcaa605757"
+  "file": "https://github.com/xivionisnothere-droid/yandere-updates/releases/download/v98/yandere-forge.apk",
+  "view": "https://github.com/xivionisnothere-droid/yandere-updates/releases/tag/v98",
+  "note": "NSFW Vox talk is airy, close, and wrong.",
+  "sha256": "4e5bd5ccb3b8264f8f96d86a775db1bc0d745ec9e26740ea34152b1ad5f28ead"
 }
