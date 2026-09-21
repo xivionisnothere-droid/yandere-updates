@@ -1,14 +1,14 @@
 {
-  "versionCode": 130,
-  "versionName": "10.48",
-  "name": "DESK 10.48",
+  "versionCode": 131,
+  "versionName": "10.49",
+  "name": "DESK 10.49",
   "at": "2026-09-21",
-  "file": "https://github.com/xivionisnothere-droid/yandere-updates/releases/download/v130/voxdere-ai-10.48.apk",
-  "view": "https://github.com/xivionisnothere-droid/yandere-updates/releases/tag/v130",
-  "note": "Style stays production-only. PC save is silent. Import sits above the copy bar. Crew check is quicker. Dates speak as I.",
-  "sha256": "1161cb7ba12882601922d18893857fba11008a10fc7d4d729a70e6ee6702f421",
-  "desktop": "https://github.com/xivionisnothere-droid/yandere-updates/releases/download/v130/voxdere-ai-10.48-win.zip",
-  "desk": "https://github.com/xivionisnothere-droid/yandere-updates/releases/download/v130/voxdere-ai-10.48-desk.zip",
-  "desktopSha256": "fd67e6efe74b8dae7c1211240127deb11c1592ce5ebb14211d7dae2ad3772fa3",
-  "deskSha256": "2c04d61d526aac425f8282e9957c4618c52d99d423cb3b7f04ef1b8bb06ca591"
+  "file": "https://github.com/xivionisnothere-droid/yandere-updates/releases/download/v131/voxdere-ai-10.49.apk",
+  "view": "https://github.com/xivionisnothere-droid/yandere-updates/releases/tag/v131",
+  "note": "Guest lock is Continue as Guest. No GET APK on the lock. LAB chips stay 4+3. PC save is silent.",
+  "sha256": "0968efb7af6be7a3f55dd45a8b96720f26f7d52be2a0f4907e3649b4bd0299d4",
+  "desktop": "https://github.com/xivionisnothere-droid/yandere-updates/releases/download/v131/voxdere-ai-10.49-win.zip",
+  "desk": "https://github.com/xivionisnothere-droid/yandere-updates/releases/download/v131/voxdere-ai-10.49-desk.zip",
+  "desktopSha256": "62d5a22e02ec023a32ae418dcbc2a0dc378740aa7bf26476862b0cf608e1f82f",
+  "deskSha256": "67c97685a121dc9f3cd2912aac38cd183a9ce8cac0d93804602b0e25d156e59a"
 }
