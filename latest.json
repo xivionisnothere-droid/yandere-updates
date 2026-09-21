@@ -1,10 +1,14 @@
 {
-  "versionCode": 125,
-  "versionName": "10.43",
-  "name": "DESK 10.43",
+  "versionCode": 126,
+  "versionName": "10.44",
+  "name": "DESK 10.44",
   "at": "2026-09-21",
-  "file": "https://github.com/xivionisnothere-droid/yandere-updates/releases/download/v125/voxdere-ai-10.43.apk",
-  "view": "https://github.com/xivionisnothere-droid/yandere-updates/releases/tag/v125",
-  "note": "PC glass, no chrome bars. Phone rain runs with the tilt, still falling down.",
-  "sha256": "c9882e4ba83b4f045b0fa4184fa4a2b27dc13eed080a233a06e12dffb011fdc0"
+  "file": "https://github.com/xivionisnothere-droid/yandere-updates/releases/download/v126/voxdere-ai-10.44.apk",
+  "view": "https://github.com/xivionisnothere-droid/yandere-updates/releases/tag/v126",
+  "note": "PC settings GET DESKTOP. Windows desk auto-updates from the same pointer.",
+  "sha256": "11c1580163f9e2631a75e80258bb00604af7e683f326a0e7086361870dede9ee",
+  "desktop": "https://github.com/xivionisnothere-droid/yandere-updates/releases/download/v126/voxdere-ai-10.44-win.zip",
+  "desk": "https://github.com/xivionisnothere-droid/yandere-updates/releases/download/v126/voxdere-ai-10.44-desk.zip",
+  "desktopSha256": "e560a7dc1d01eaf5e8e91a145d64487acf7f6088d9f65ec82655202e386590d9",
+  "deskSha256": "d050b08512b4e5bc6166c43bee89e2673943a040ff9b28a62e689ec8ef1fd5fb"
 }
