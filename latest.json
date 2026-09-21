@@ -1,14 +1,14 @@
 {
-  "versionCode": 129,
-  "versionName": "10.47",
-  "name": "DESK 10.47",
+  "versionCode": 130,
+  "versionName": "10.48",
+  "name": "DESK 10.48",
   "at": "2026-09-21",
-  "file": "https://github.com/xivionisnothere-droid/yandere-updates/releases/download/v129/voxdere-ai-10.47.apk",
-  "view": "https://github.com/xivionisnothere-droid/yandere-updates/releases/tag/v129",
-  "note": "Intro matches the desk. Book opens the right way. GET DESKTOP or unzip the win zip.",
-  "sha256": "de1bd17d3a92c59940f5f960c69e525628e72b53376b0ca49fc6f66d4ae688d2",
-  "desktop": "https://github.com/xivionisnothere-droid/yandere-updates/releases/download/v129/voxdere-ai-10.47-win.zip",
-  "desk": "https://github.com/xivionisnothere-droid/yandere-updates/releases/download/v129/voxdere-ai-10.47-desk.zip",
-  "desktopSha256": "c7635432d2e4218594ae3663bb2ac1703fe6c0fbb14d6df6596c6014443e9cb4",
-  "deskSha256": "610de2c1a13dd8b039ff445f64edab23441f768c504f5fdc965844c9bee7cfb6"
+  "file": "https://github.com/xivionisnothere-droid/yandere-updates/releases/download/v130/voxdere-ai-10.48.apk",
+  "view": "https://github.com/xivionisnothere-droid/yandere-updates/releases/tag/v130",
+  "note": "Style stays production-only. PC save is silent. Import sits above the copy bar. Crew check is quicker. Dates speak as I.",
+  "sha256": "1161cb7ba12882601922d18893857fba11008a10fc7d4d729a70e6ee6702f421",
+  "desktop": "https://github.com/xivionisnothere-droid/yandere-updates/releases/download/v130/voxdere-ai-10.48-win.zip",
+  "desk": "https://github.com/xivionisnothere-droid/yandere-updates/releases/download/v130/voxdere-ai-10.48-desk.zip",
+  "desktopSha256": "fd67e6efe74b8dae7c1211240127deb11c1592ce5ebb14211d7dae2ad3772fa3",
+  "deskSha256": "2c04d61d526aac425f8282e9957c4618c52d99d423cb3b7f04ef1b8bb06ca591"
 }
