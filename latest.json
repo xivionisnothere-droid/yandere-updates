@@ -1,14 +1,15 @@
 {
-  "versionCode": 139,
-  "versionName": "10.57",
-  "name": "DESK 10.57",
+  "versionCode": 140,
+  "versionName": "10.58",
+  "name": "DESK 10.58",
   "at": "2026-09-21",
-  "file": "https://github.com/xivionisnothere-droid/yandere-updates/releases/download/v139/voxdere-ai-10.57.apk",
-  "view": "https://github.com/xivionisnothere-droid/yandere-updates/releases/tag/v139",
-  "note": "Rain stays behind the desk. TALK never dumps JSON. PIC/LOOK camera errors stay human. Hourly doctor paused. This desk knows it is 10.57.",
-  "sha256": "bb673c251508e7c7487e0c79d816bfa751d59309d67783ff611bfd8d7362898d",
-  "desktop": "https://github.com/xivionisnothere-droid/yandere-updates/releases/download/v139/voxdere-ai-10.57-win.zip",
-  "desk": "https://github.com/xivionisnothere-droid/yandere-updates/releases/download/v139/voxdere-ai-10.57-desk.zip",
-  "desktopSha256": "51b6bb7fd6dd0d6a85acc3e029edebfe4381c41bff69206de0d702928694a8e2",
-  "deskSha256": "fd79e49a8649f54baf6d5f331346d6c12b19c9e4738af4c6e25c6385d7ceeb56"
+  "file": "https://github.com/xivionisnothere-droid/yandere-updates/releases/download/v140/voxdere-ai-10.58.apk",
+  "view": "https://github.com/xivionisnothere-droid/yandere-updates/releases/tag/v140",
+  "note": "TALK writes the numbered SONG boxes. Phone TALK uses Crew. PC Settings CHAT BOT picks Local or Crew. Rain hides while TALK is open. Tool sheets clear the bottom tabs. Guest intro is welcome back, never guest. This desk knows it is 10.58.",
+  "guestNote": "Bug fixes and new AI mechanics.",
+  "sha256": "c9e87859bbb5deac63715defc45ea9c83771102ac484cb3ed7dd350f5f1cfba8",
+  "desktop": "https://github.com/xivionisnothere-droid/yandere-updates/releases/download/v140/voxdere-ai-10.58-win.zip",
+  "desk": "https://github.com/xivionisnothere-droid/yandere-updates/releases/download/v140/voxdere-ai-10.58-desk.zip",
+  "desktopSha256": "ca7e047b83a90c60c58304c769060fd0956dbf96d596e3f5598ef0eda18b1147",
+  "deskSha256": "b5733e724456a7fd53b10d7e5f611bb0743bd7c5680032c23222933f6cea321e"
 }
