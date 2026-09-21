@@ -1,15 +1,15 @@
 {
-  "versionCode": 140,
-  "versionName": "10.58",
-  "name": "DESK 10.58",
+  "versionCode": 141,
+  "versionName": "10.59",
+  "name": "DESK 10.59",
   "at": "2026-09-21",
-  "file": "https://github.com/xivionisnothere-droid/yandere-updates/releases/download/v140/voxdere-ai-10.58.apk",
-  "view": "https://github.com/xivionisnothere-droid/yandere-updates/releases/tag/v140",
-  "note": "TALK writes the numbered SONG boxes. Phone TALK uses Crew. PC Settings CHAT BOT picks Local or Crew. Rain hides while TALK is open. Tool sheets clear the bottom tabs. Guest intro is welcome back, never guest. This desk knows it is 10.58.",
+  "file": "https://github.com/xivionisnothere-droid/yandere-updates/releases/download/v141/voxdere-ai-10.59.apk",
+  "view": "https://github.com/xivionisnothere-droid/yandere-updates/releases/tag/v141",
+  "note": "PIC actually sends a still. LOOK stays illustrated, not a photo of the sprite. Chat stops dumping camera notes. This desk knows it is 10.59.",
   "guestNote": "Bug fixes and new AI mechanics.",
-  "sha256": "c9e87859bbb5deac63715defc45ea9c83771102ac484cb3ed7dd350f5f1cfba8",
-  "desktop": "https://github.com/xivionisnothere-droid/yandere-updates/releases/download/v140/voxdere-ai-10.58-win.zip",
-  "desk": "https://github.com/xivionisnothere-droid/yandere-updates/releases/download/v140/voxdere-ai-10.58-desk.zip",
-  "desktopSha256": "ca7e047b83a90c60c58304c769060fd0956dbf96d596e3f5598ef0eda18b1147",
-  "deskSha256": "b5733e724456a7fd53b10d7e5f611bb0743bd7c5680032c23222933f6cea321e"
+  "sha256": "e5ec30059ea233d5ec863addb32a8871afcc45e0653af32b430d4b77164a1bef",
+  "desktop": "https://github.com/xivionisnothere-droid/yandere-updates/releases/download/v141/voxdere-ai-10.59-win.zip",
+  "desk": "https://github.com/xivionisnothere-droid/yandere-updates/releases/download/v141/voxdere-ai-10.59-desk.zip",
+  "desktopSha256": "b4f899f3b5ac08668ff7a988cb897f1ed4a124cbc25387d3588923d8590ef8d9",
+  "deskSha256": "c84193eca8018f81e5e7b574f136a76d55a496c6f59b65328e4d4da2d6945cbb"
 }
