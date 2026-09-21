@@ -1,14 +1,14 @@
 {
-  "versionCode": 127,
-  "versionName": "10.45",
-  "name": "DESK 10.45",
+  "versionCode": 128,
+  "versionName": "10.46",
+  "name": "DESK 10.46",
   "at": "2026-09-21",
-  "file": "https://github.com/xivionisnothere-droid/yandere-updates/releases/download/v127/voxdere-ai-10.45.apk",
-  "view": "https://github.com/xivionisnothere-droid/yandere-updates/releases/tag/v127",
-  "note": "Windows exe TypeError: Failed to fetch is dead. GET DESKTOP or unzip the win zip.",
-  "sha256": "1cdcace2f45bf980b83f9c539ce1a741dfd54ebb1475e29304f3a8d2eb13dc98",
-  "desktop": "https://github.com/xivionisnothere-droid/yandere-updates/releases/download/v127/voxdere-ai-10.45-win.zip",
-  "desk": "https://github.com/xivionisnothere-droid/yandere-updates/releases/download/v127/voxdere-ai-10.45-desk.zip",
-  "desktopSha256": "a933a402ed79ae1f1d4cb668a2c00655c824b1e65aeddcc0eeee039ae353c2ac",
-  "deskSha256": "47b7bc2707c43a3ccb73a1a428df8bd39e088fe1f438ce76e104246e0c5b5650"
+  "file": "https://github.com/xivionisnothere-droid/yandere-updates/releases/download/v128/voxdere-ai-10.46.apk",
+  "view": "https://github.com/xivionisnothere-droid/yandere-updates/releases/tag/v128",
+  "note": "PC window X is Vox. I'm not stays. Lol Cya quits. GET DESKTOP or unzip the win zip.",
+  "sha256": "cee8a4e5122d4600d599a3a0c6e97e1555c654a6fd4499a5638746a09d5f672d",
+  "desktop": "https://github.com/xivionisnothere-droid/yandere-updates/releases/download/v128/voxdere-ai-10.46-win.zip",
+  "desk": "https://github.com/xivionisnothere-droid/yandere-updates/releases/download/v128/voxdere-ai-10.46-desk.zip",
+  "desktopSha256": "6373c5b8c76d4cf463cd220a8838e94726efc8e3a1f15c1f931e36dbaf47c88b",
+  "deskSha256": "a7dcfd0aa533619caf110ef909254d964b5d9f0fa3e806660c24d9f04c825dfa"
 }
