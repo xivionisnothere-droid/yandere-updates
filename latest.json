@@ -1,14 +1,14 @@
 {
-  "versionCode": 128,
-  "versionName": "10.46",
-  "name": "DESK 10.46",
+  "versionCode": 129,
+  "versionName": "10.47",
+  "name": "DESK 10.47",
   "at": "2026-09-21",
-  "file": "https://github.com/xivionisnothere-droid/yandere-updates/releases/download/v128/voxdere-ai-10.46.apk",
-  "view": "https://github.com/xivionisnothere-droid/yandere-updates/releases/tag/v128",
-  "note": "PC window X is Vox. I'm not stays. Lol Cya quits. GET DESKTOP or unzip the win zip.",
-  "sha256": "2732829d1d170f312b69fcdc1fee468e86039614e6825d95b5beb3599f93c014",
-  "desktop": "https://github.com/xivionisnothere-droid/yandere-updates/releases/download/v128/voxdere-ai-10.46-win.zip",
-  "desk": "https://github.com/xivionisnothere-droid/yandere-updates/releases/download/v128/voxdere-ai-10.46-desk.zip",
-  "desktopSha256": "fc941455aba353f9c035a8a9785e6d6ca12b2f1730653afad780b5f412d5e4ee",
-  "deskSha256": "d3283d349910f7254b0308d1b36a10a92c73cd93ca72a88271ebc219b59cc45a"
+  "file": "https://github.com/xivionisnothere-droid/yandere-updates/releases/download/v129/voxdere-ai-10.47.apk",
+  "view": "https://github.com/xivionisnothere-droid/yandere-updates/releases/tag/v129",
+  "note": "Intro matches the desk. Book opens the right way. GET DESKTOP or unzip the win zip.",
+  "sha256": "de1bd17d3a92c59940f5f960c69e525628e72b53376b0ca49fc6f66d4ae688d2",
+  "desktop": "https://github.com/xivionisnothere-droid/yandere-updates/releases/download/v129/voxdere-ai-10.47-win.zip",
+  "desk": "https://github.com/xivionisnothere-droid/yandere-updates/releases/download/v129/voxdere-ai-10.47-desk.zip",
+  "desktopSha256": "c7635432d2e4218594ae3663bb2ac1703fe6c0fbb14d6df6596c6014443e9cb4",
+  "deskSha256": "610de2c1a13dd8b039ff445f64edab23441f768c504f5fdc965844c9bee7cfb6"
 }
