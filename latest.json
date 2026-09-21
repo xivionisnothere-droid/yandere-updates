@@ -1,14 +1,14 @@
 {
-  "versionCode": 126,
-  "versionName": "10.44",
-  "name": "DESK 10.44",
+  "versionCode": 127,
+  "versionName": "10.45",
+  "name": "DESK 10.45",
   "at": "2026-09-21",
-  "file": "https://github.com/xivionisnothere-droid/yandere-updates/releases/download/v126/voxdere-ai-10.44.apk",
-  "view": "https://github.com/xivionisnothere-droid/yandere-updates/releases/tag/v126",
-  "note": "PC settings GET DESKTOP. Windows desk auto-updates from the same pointer.",
-  "sha256": "11c1580163f9e2631a75e80258bb00604af7e683f326a0e7086361870dede9ee",
-  "desktop": "https://github.com/xivionisnothere-droid/yandere-updates/releases/download/v126/voxdere-ai-10.44-win.zip",
-  "desk": "https://github.com/xivionisnothere-droid/yandere-updates/releases/download/v126/voxdere-ai-10.44-desk.zip",
-  "desktopSha256": "e560a7dc1d01eaf5e8e91a145d64487acf7f6088d9f65ec82655202e386590d9",
-  "deskSha256": "d050b08512b4e5bc6166c43bee89e2673943a040ff9b28a62e689ec8ef1fd5fb"
+  "file": "https://github.com/xivionisnothere-droid/yandere-updates/releases/download/v127/voxdere-ai-10.45.apk",
+  "view": "https://github.com/xivionisnothere-droid/yandere-updates/releases/tag/v127",
+  "note": "Windows exe TypeError: Failed to fetch is dead. GET DESKTOP or unzip the win zip.",
+  "sha256": "1cdcace2f45bf980b83f9c539ce1a741dfd54ebb1475e29304f3a8d2eb13dc98",
+  "desktop": "https://github.com/xivionisnothere-droid/yandere-updates/releases/download/v127/voxdere-ai-10.45-win.zip",
+  "desk": "https://github.com/xivionisnothere-droid/yandere-updates/releases/download/v127/voxdere-ai-10.45-desk.zip",
+  "desktopSha256": "a933a402ed79ae1f1d4cb668a2c00655c824b1e65aeddcc0eeee039ae353c2ac",
+  "deskSha256": "47b7bc2707c43a3ccb73a1a428df8bd39e088fe1f438ce76e104246e0c5b5650"
 }
