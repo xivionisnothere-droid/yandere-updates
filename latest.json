@@ -1,14 +1,14 @@
 {
-  "versionCode": 136,
-  "versionName": "10.54",
-  "name": "DESK 10.54",
+  "versionCode": 137,
+  "versionName": "10.55",
+  "name": "DESK 10.55",
   "at": "2026-09-21",
-  "file": "https://github.com/xivionisnothere-droid/yandere-updates/releases/download/v136/voxdere-ai-10.54.apk",
-  "view": "https://github.com/xivionisnothere-droid/yandere-updates/releases/tag/v136",
-  "note": "PIC/LOOK: Google off NSFW. Nano Banana 2 on clean. Grok Imagine + Seedream after hours.",
-  "sha256": "021e898489f7c2290d495ffdb723e75651032109c3cef0f3e465671a12c5e6ce",
-  "desktop": "https://github.com/xivionisnothere-droid/yandere-updates/releases/download/v136/voxdere-ai-10.54-win.zip",
-  "desk": "https://github.com/xivionisnothere-droid/yandere-updates/releases/download/v136/voxdere-ai-10.54-desk.zip",
-  "desktopSha256": "6671a7db8662932de7d7600544e6c15ca92698daa4423f6b656b0301dfe90bbd",
-  "deskSha256": "691d5b2356bb2526d9db62fb4ce0487c7ad24f31a41c0d434f6bf8dfe90cec10"
+  "file": "https://github.com/xivionisnothere-droid/yandere-updates/releases/download/v137/voxdere-ai-10.55.apk",
+  "view": "https://github.com/xivionisnothere-droid/yandere-updates/releases/tag/v137",
+  "note": "Windows exe is VoxDereAi with the desk icon, not Electron. Intro is Vox after the lock. Book video is gone.",
+  "sha256": "090a5f1b894ba85d184e7af9aa9fea3965cc1928842476636e0e6d7c5edc8e99",
+  "desktop": "https://github.com/xivionisnothere-droid/yandere-updates/releases/download/v137/voxdere-ai-10.55-win.zip",
+  "desk": "https://github.com/xivionisnothere-droid/yandere-updates/releases/download/v137/voxdere-ai-10.55-desk.zip",
+  "desktopSha256": "b2868d99185339ae983f0ebf6d2a6e0a504d26964c604b3a0af86af1a6e9112a",
+  "deskSha256": "0f9ed6e05fdd8b360ec921dcf5a7961e9987335cce60154f4aaa732fdd2e91b4"
 }
