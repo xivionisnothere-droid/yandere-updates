@@ -1,15 +1,15 @@
 {
-  "versionCode": 141,
-  "versionName": "10.59",
-  "name": "DESK 10.59",
+  "versionCode": 142,
+  "versionName": "10.60",
+  "name": "DESK 10.60",
   "at": "2026-09-21",
-  "file": "https://github.com/xivionisnothere-droid/yandere-updates/releases/download/v141/voxdere-ai-10.59.apk",
-  "view": "https://github.com/xivionisnothere-droid/yandere-updates/releases/tag/v141",
-  "note": "PIC actually sends a still. LOOK stays illustrated, not a photo of the sprite. Chat stops dumping camera notes. This desk knows it is 10.59.",
+  "file": "https://github.com/xivionisnothere-droid/yandere-updates/releases/download/v142/voxdere-ai-10.60.apk",
+  "view": "https://github.com/xivionisnothere-droid/yandere-updates/releases/tag/v142",
+  "note": "TALK puts the exact word in the box. No song dump. No prompt dump. PIC tries more cameras. This desk knows it is 10.60.",
   "guestNote": "Bug fixes and new AI mechanics.",
-  "sha256": "e5ec30059ea233d5ec863addb32a8871afcc45e0653af32b430d4b77164a1bef",
-  "desktop": "https://github.com/xivionisnothere-droid/yandere-updates/releases/download/v141/voxdere-ai-10.59-win.zip",
-  "desk": "https://github.com/xivionisnothere-droid/yandere-updates/releases/download/v141/voxdere-ai-10.59-desk.zip",
-  "desktopSha256": "b4f899f3b5ac08668ff7a988cb897f1ed4a124cbc25387d3588923d8590ef8d9",
-  "deskSha256": "c84193eca8018f81e5e7b574f136a76d55a496c6f59b65328e4d4da2d6945cbb"
+  "sha256": "c07b607da02ee40f3242991a5ec3210ec1bdae6fee209b6c7efa7901d1239e67",
+  "desktop": "https://github.com/xivionisnothere-droid/yandere-updates/releases/download/v142/voxdere-ai-10.60-win.zip",
+  "desk": "https://github.com/xivionisnothere-droid/yandere-updates/releases/download/v142/voxdere-ai-10.60-desk.zip",
+  "desktopSha256": "5c5357b7843684dfc2a009f9d830ab0bd5eb26bc2084d10be2c4fef3ff9c2e6c",
+  "deskSha256": "3f44b6ddd3697a66cde4ebcb1f39242a5413e977a9758103f07c67199e6d7bd1"
 }
