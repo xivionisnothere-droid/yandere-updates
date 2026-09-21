@@ -1,14 +1,14 @@
 {
-  "versionCode": 135,
-  "versionName": "10.53",
-  "name": "DESK 10.53",
+  "versionCode": 136,
+  "versionName": "10.54",
+  "name": "DESK 10.54",
   "at": "2026-09-21",
-  "file": "https://github.com/xivionisnothere-droid/yandere-updates/releases/download/v135/voxdere-ai-10.53.apk",
-  "view": "https://github.com/xivionisnothere-droid/yandere-updates/releases/tag/v135",
-  "note": "Guest lock is Continue as Guest. LAB chips 4+3, no GPT-5. Desk key and I forgot stay. Local AI on Windows stays.",
-  "sha256": "3fb9fb9874d3bfb2fffd4ef547b8a7780c280b685bc0a0e92840be7fc56e3b29",
-  "desktop": "https://github.com/xivionisnothere-droid/yandere-updates/releases/download/v135/voxdere-ai-10.53-win.zip",
-  "desk": "https://github.com/xivionisnothere-droid/yandere-updates/releases/download/v135/voxdere-ai-10.53-desk.zip",
-  "desktopSha256": "471de5298c5c855ceff1263b627f9a9c511ca16800ddcced15d87870b2348e77",
-  "deskSha256": "efe1640ee477971b92879ee873b2d80cd88e0ad45547d734f8f075ccef442cde"
+  "file": "https://github.com/xivionisnothere-droid/yandere-updates/releases/download/v136/voxdere-ai-10.54.apk",
+  "view": "https://github.com/xivionisnothere-droid/yandere-updates/releases/tag/v136",
+  "note": "PIC/LOOK: Google off NSFW. Nano Banana 2 on clean. Grok Imagine + Seedream after hours.",
+  "sha256": "021e898489f7c2290d495ffdb723e75651032109c3cef0f3e465671a12c5e6ce",
+  "desktop": "https://github.com/xivionisnothere-droid/yandere-updates/releases/download/v136/voxdere-ai-10.54-win.zip",
+  "desk": "https://github.com/xivionisnothere-droid/yandere-updates/releases/download/v136/voxdere-ai-10.54-desk.zip",
+  "desktopSha256": "6671a7db8662932de7d7600544e6c15ca92698daa4423f6b656b0301dfe90bbd",
+  "deskSha256": "691d5b2356bb2526d9db62fb4ce0487c7ad24f31a41c0d434f6bf8dfe90cec10"
 }
