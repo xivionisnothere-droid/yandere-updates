@@ -1,14 +1,14 @@
 {
-  "versionCode": 134,
-  "versionName": "10.52",
-  "name": "DESK 10.52",
+  "versionCode": 135,
+  "versionName": "10.53",
+  "name": "DESK 10.53",
   "at": "2026-09-21",
-  "file": "https://github.com/xivionisnothere-droid/yandere-updates/releases/download/v134/voxdere-ai-10.52.apk",
-  "view": "https://github.com/xivionisnothere-droid/yandere-updates/releases/tag/v134",
-  "note": "Auto Local AI on the Windows desk. Settings checks RAM/GPU, installs Ollama plus an uncensored Dolphin model. LOCAL chip in LAB after it is ready. Phone APK never gets this.",
-  "sha256": "d028feea4d7bdd09793842e7cad3f27be47b60f2e1c432c3ce847cb31c44e367",
-  "desktop": "https://github.com/xivionisnothere-droid/yandere-updates/releases/download/v134/voxdere-ai-10.52-win.zip",
-  "desk": "https://github.com/xivionisnothere-droid/yandere-updates/releases/download/v134/voxdere-ai-10.52-desk.zip",
-  "desktopSha256": "10a053f33c04001c0e8da4f45a7fd95ac5e9289a16ec933dca9b64da856f0719",
-  "deskSha256": "ade32848aa74a3e11699df86f63b38b98d0cac2f3483c9f9924890f7174198e3"
+  "file": "https://github.com/xivionisnothere-droid/yandere-updates/releases/download/v135/voxdere-ai-10.53.apk",
+  "view": "https://github.com/xivionisnothere-droid/yandere-updates/releases/tag/v135",
+  "note": "Guest lock is Continue as Guest. LAB chips 4+3, no GPT-5. Desk key and I forgot stay. Local AI on Windows stays.",
+  "sha256": "3fb9fb9874d3bfb2fffd4ef547b8a7780c280b685bc0a0e92840be7fc56e3b29",
+  "desktop": "https://github.com/xivionisnothere-droid/yandere-updates/releases/download/v135/voxdere-ai-10.53-win.zip",
+  "desk": "https://github.com/xivionisnothere-droid/yandere-updates/releases/download/v135/voxdere-ai-10.53-desk.zip",
+  "desktopSha256": "471de5298c5c855ceff1263b627f9a9c511ca16800ddcced15d87870b2348e77",
+  "deskSha256": "efe1640ee477971b92879ee873b2d80cd88e0ad45547d734f8f075ccef442cde"
 }
