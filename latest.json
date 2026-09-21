@@ -1,14 +1,14 @@
 {
-  "versionCode": 137,
-  "versionName": "10.55",
-  "name": "DESK 10.55",
+  "versionCode": 138,
+  "versionName": "10.56",
+  "name": "DESK 10.56",
   "at": "2026-09-21",
-  "file": "https://github.com/xivionisnothere-droid/yandere-updates/releases/download/v137/voxdere-ai-10.55.apk",
-  "view": "https://github.com/xivionisnothere-droid/yandere-updates/releases/tag/v137",
-  "note": "Windows exe is VoxDereAi with the desk icon, not Electron. Intro is Vox after the lock. Book video is gone.",
-  "sha256": "090a5f1b894ba85d184e7af9aa9fea3965cc1928842476636e0e6d7c5edc8e99",
-  "desktop": "https://github.com/xivionisnothere-droid/yandere-updates/releases/download/v137/voxdere-ai-10.55-win.zip",
-  "desk": "https://github.com/xivionisnothere-droid/yandere-updates/releases/download/v137/voxdere-ai-10.55-desk.zip",
-  "desktopSha256": "b2868d99185339ae983f0ebf6d2a6e0a504d26964c604b3a0af86af1a6e9112a",
-  "deskSha256": "0f9ed6e05fdd8b360ec921dcf5a7961e9987335cce60154f4aaa732fdd2e91b4"
+  "file": "https://github.com/xivionisnothere-droid/yandere-updates/releases/download/v138/voxdere-ai-10.56.apk",
+  "view": "https://github.com/xivionisnothere-droid/yandere-updates/releases/tag/v138",
+  "note": "Guest lock is Continue as Guest. SONG ASK VOX header only. LAB chips 4+3. No GPT-5.",
+  "sha256": "749db877c4c00df732d3e564cdac87c61761cf7e7050068380f784749a7d0aca",
+  "desktop": "https://github.com/xivionisnothere-droid/yandere-updates/releases/download/v138/voxdere-ai-10.56-win.zip",
+  "desk": "https://github.com/xivionisnothere-droid/yandere-updates/releases/download/v138/voxdere-ai-10.56-desk.zip",
+  "desktopSha256": "e055462b726ca1a7ffcd0143aff503329ed15ba8a27b4aebca7820a4c7d477ca",
+  "deskSha256": "121e79d1e22f373e6487ea848e2df7aee67eca85bb98651caae52c2db68ae007"
 }
