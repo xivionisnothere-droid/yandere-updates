@@ -1,14 +1,14 @@
 {
-  "versionCode": 138,
-  "versionName": "10.56",
-  "name": "DESK 10.56",
+  "versionCode": 139,
+  "versionName": "10.57",
+  "name": "DESK 10.57",
   "at": "2026-09-21",
-  "file": "https://github.com/xivionisnothere-droid/yandere-updates/releases/download/v138/voxdere-ai-10.56.apk",
-  "view": "https://github.com/xivionisnothere-droid/yandere-updates/releases/tag/v138",
-  "note": "Guest lock is Continue as Guest. SONG ASK VOX header only. LAB chips 4+3. No GPT-5.",
-  "sha256": "749db877c4c00df732d3e564cdac87c61761cf7e7050068380f784749a7d0aca",
-  "desktop": "https://github.com/xivionisnothere-droid/yandere-updates/releases/download/v138/voxdere-ai-10.56-win.zip",
-  "desk": "https://github.com/xivionisnothere-droid/yandere-updates/releases/download/v138/voxdere-ai-10.56-desk.zip",
-  "desktopSha256": "e055462b726ca1a7ffcd0143aff503329ed15ba8a27b4aebca7820a4c7d477ca",
-  "deskSha256": "121e79d1e22f373e6487ea848e2df7aee67eca85bb98651caae52c2db68ae007"
+  "file": "https://github.com/xivionisnothere-droid/yandere-updates/releases/download/v139/voxdere-ai-10.57.apk",
+  "view": "https://github.com/xivionisnothere-droid/yandere-updates/releases/tag/v139",
+  "note": "Rain stays behind the desk. TALK never dumps JSON. PIC/LOOK camera errors stay human. Hourly doctor paused. This desk knows it is 10.57.",
+  "sha256": "bb673c251508e7c7487e0c79d816bfa751d59309d67783ff611bfd8d7362898d",
+  "desktop": "https://github.com/xivionisnothere-droid/yandere-updates/releases/download/v139/voxdere-ai-10.57-win.zip",
+  "desk": "https://github.com/xivionisnothere-droid/yandere-updates/releases/download/v139/voxdere-ai-10.57-desk.zip",
+  "desktopSha256": "51b6bb7fd6dd0d6a85acc3e029edebfe4381c41bff69206de0d702928694a8e2",
+  "deskSha256": "fd79e49a8649f54baf6d5f331346d6c12b19c9e4738af4c6e25c6385d7ceeb56"
 }
