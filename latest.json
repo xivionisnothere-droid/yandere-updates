@@ -1,10 +1,10 @@
 {
-  "versionCode": 124,
-  "versionName": "10.42",
-  "name": "DESK 10.42",
-  "at": "2026-09-20",
-  "file": "https://github.com/xivionisnothere-droid/yandere-updates/releases/download/v124/voxdere-ai-10.42.apk",
-  "view": "https://github.com/xivionisnothere-droid/yandere-updates/releases/tag/v124",
-  "note": "Guest lock is Continue as Guest. No owner, Yandere, or GET APK on the lock. Desk key stays.",
-  "sha256": "f2ac30a396777fc2ca18dadbdde9dda268e21d067ea35b96a17526bc4d8e119a"
+  "versionCode": 125,
+  "versionName": "10.43",
+  "name": "DESK 10.43",
+  "at": "2026-09-21",
+  "file": "https://github.com/xivionisnothere-droid/yandere-updates/releases/download/v125/voxdere-ai-10.43.apk",
+  "view": "https://github.com/xivionisnothere-droid/yandere-updates/releases/tag/v125",
+  "note": "PC glass, no chrome bars. Phone rain runs with the tilt, still falling down.",
+  "sha256": "c9882e4ba83b4f045b0fa4184fa4a2b27dc13eed080a233a06e12dffb011fdc0"
 }
