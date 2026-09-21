@@ -1,14 +1,14 @@
 {
-  "versionCode": 132,
-  "versionName": "10.50",
-  "name": "DESK 10.50",
+  "versionCode": 133,
+  "versionName": "10.51",
+  "name": "DESK 10.51",
   "at": "2026-09-21",
-  "file": "https://github.com/xivionisnothere-droid/yandere-updates/releases/download/v132/voxdere-ai-10.50.apk",
-  "view": "https://github.com/xivionisnothere-droid/yandere-updates/releases/tag/v132",
-  "note": "Shipped files are armored. Unzipping no longer dumps readable forge/DATE/crew source.",
-  "sha256": "a686703356faa05540babb6882bab4e73719b0852982f2fd7e3b9cbc29eb64f5",
-  "desktop": "https://github.com/xivionisnothere-droid/yandere-updates/releases/download/v132/voxdere-ai-10.50-win.zip",
-  "desk": "https://github.com/xivionisnothere-droid/yandere-updates/releases/download/v132/voxdere-ai-10.50-desk.zip",
-  "desktopSha256": "a5fdde1c92b0bac2bd45a615456366b1d541286f67e7e62f37f101e6f98afd89",
-  "deskSha256": "2a4fc7ca87b1675726d59152eed4eb970b5b1b1810bbefd84f92b0d32b226c63"
+  "file": "https://github.com/xivionisnothere-droid/yandere-updates/releases/download/v133/voxdere-ai-10.51.apk",
+  "view": "https://github.com/xivionisnothere-droid/yandere-updates/releases/tag/v133",
+  "note": "Guest lock is Continue as Guest. LAB chips 4+3, no GPT-5. Desk key and I forgot stay.",
+  "sha256": "5fb0e31d6de7cd92debdecc410183e614b993f97c8058e9264043a658e33c516",
+  "desktop": "https://github.com/xivionisnothere-droid/yandere-updates/releases/download/v133/voxdere-ai-10.51-win.zip",
+  "desk": "https://github.com/xivionisnothere-droid/yandere-updates/releases/download/v133/voxdere-ai-10.51-desk.zip",
+  "desktopSha256": "35b72e31afe170e5a0ac8a21976c3d8b245dd278e24b67431212f11cb58435bc",
+  "deskSha256": "a3ff5717ff7094b0c4bd34b2ff80c4a237030d742b44d3d69fd9809372b8b93f"
 }
