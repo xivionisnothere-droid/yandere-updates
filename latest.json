@@ -1,15 +1,15 @@
 {
-  "versionCode": 145,
-  "versionName": "10.63",
-  "name": "DESK 10.63",
+  "versionCode": 146,
+  "versionName": "10.64",
+  "name": "DESK 10.64",
   "at": "2026-09-22",
-  "file": "https://github.com/xivionisnothere-droid/yandere-updates/releases/download/v145/voxdere-ai-10.63.apk",
-  "view": "https://github.com/xivionisnothere-droid/yandere-updates/releases/tag/v145",
-  "note": "TALK clear/remove empties the boxes. Crew stays Crew. This desk knows it is 10.63.",
+  "file": "https://github.com/xivionisnothere-droid/yandere-updates/releases/download/v146/voxdere-ai-10.64.apk",
+  "view": "https://github.com/xivionisnothere-droid/yandere-updates/releases/tag/v146",
+  "note": "After hours PIC/LOOK actually sends the adult still. TALK on local + NSFW talks dirty. This desk knows it is 10.64.",
   "guestNote": "Bug fixes and new AI mechanics.",
-  "sha256": "eb1ab6e15e7f957e003161ff0140a60f5c7f370042f073b566c84adce3b70659",
-  "desktop": "https://github.com/xivionisnothere-droid/yandere-updates/releases/download/v145/voxdere-ai-10.63-win.zip",
-  "desk": "https://github.com/xivionisnothere-droid/yandere-updates/releases/download/v145/voxdere-ai-10.63-desk.zip",
-  "desktopSha256": "fe62cf9781384018d1f1ad15a4e5647ec697d85f14079a5c95467b399d2b851b",
-  "deskSha256": "8e65d42a85d6bbd16f69065df57fd5e76a6357f9c988e45adad21aa199a00c44"
+  "sha256": "a60f514339e51f2203af9d062a04166fd85124163ae01d24ddf6215861f28a9b",
+  "desktop": "https://github.com/xivionisnothere-droid/yandere-updates/releases/download/v146/voxdere-ai-10.64-win.zip",
+  "desk": "https://github.com/xivionisnothere-droid/yandere-updates/releases/download/v146/voxdere-ai-10.64-desk.zip",
+  "desktopSha256": "093fa9edfdc68cce3b5020b924efb6ca6fff466cb3010e6f3fb030df4f3f835c",
+  "deskSha256": "7d291ea2b55ea6963c0cc17b749f3f7c89f2f0b757461038297b868bb6ee2d96"
 }
