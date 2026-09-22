@@ -1,15 +1,15 @@
 {
-  "versionCode": 142,
-  "versionName": "10.60",
-  "name": "DESK 10.60",
-  "at": "2026-09-21",
-  "file": "https://github.com/xivionisnothere-droid/yandere-updates/releases/download/v142/voxdere-ai-10.60.apk",
-  "view": "https://github.com/xivionisnothere-droid/yandere-updates/releases/tag/v142",
-  "note": "TALK puts the exact word in the box. No song dump. No prompt dump. PIC tries more cameras. This desk knows it is 10.60.",
+  "versionCode": 143,
+  "versionName": "10.61",
+  "name": "DESK 10.61",
+  "at": "2026-09-22",
+  "file": "https://github.com/xivionisnothere-droid/yandere-updates/releases/download/v143/voxdere-ai-10.61.apk",
+  "view": "https://github.com/xivionisnothere-droid/yandere-updates/releases/tag/v143",
+  "note": "PIC and LOOK send illustrated stills. TALK puts hi in every box. Chat after a fill stays chat. Yandere buttons die in place. This desk knows it is 10.61.",
   "guestNote": "Bug fixes and new AI mechanics.",
-  "sha256": "c07b607da02ee40f3242991a5ec3210ec1bdae6fee209b6c7efa7901d1239e67",
-  "desktop": "https://github.com/xivionisnothere-droid/yandere-updates/releases/download/v142/voxdere-ai-10.60-win.zip",
-  "desk": "https://github.com/xivionisnothere-droid/yandere-updates/releases/download/v142/voxdere-ai-10.60-desk.zip",
-  "desktopSha256": "5c5357b7843684dfc2a009f9d830ab0bd5eb26bc2084d10be2c4fef3ff9c2e6c",
-  "deskSha256": "3f44b6ddd3697a66cde4ebcb1f39242a5413e977a9758103f07c67199e6d7bd1"
+  "sha256": "58eaf1c188642118faeda24bc4412be6e1b1ffacfb5048558da2117491a7ca26",
+  "desktop": "https://github.com/xivionisnothere-droid/yandere-updates/releases/download/v143/voxdere-ai-10.61-win.zip",
+  "desk": "https://github.com/xivionisnothere-droid/yandere-updates/releases/download/v143/voxdere-ai-10.61-desk.zip",
+  "desktopSha256": "fe00771db70f4698e859a7d207c21452f9a2b4f4d70caa53aff94da0f001f14e",
+  "deskSha256": "228ab4e2e02bffa063c7a1bb1f3a130da581fdf2bba5a5be0cebc855edad1e7d"
 }
