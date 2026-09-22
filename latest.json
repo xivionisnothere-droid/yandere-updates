@@ -1,15 +1,15 @@
 {
-  "versionCode": 144,
-  "versionName": "10.62",
-  "name": "DESK 10.62",
+  "versionCode": 145,
+  "versionName": "10.63",
+  "name": "DESK 10.63",
   "at": "2026-09-22",
-  "file": "https://github.com/xivionisnothere-droid/yandere-updates/releases/download/v144/voxdere-ai-10.62.apk",
-  "view": "https://github.com/xivionisnothere-droid/yandere-updates/releases/tag/v144",
-  "note": "After hours PIC/LOOK is that adult, never a school uniform. TALK fills stay exact. This desk knows it is 10.62.",
+  "file": "https://github.com/xivionisnothere-droid/yandere-updates/releases/download/v145/voxdere-ai-10.63.apk",
+  "view": "https://github.com/xivionisnothere-droid/yandere-updates/releases/tag/v145",
+  "note": "TALK clear/remove empties the boxes. Crew stays Crew. This desk knows it is 10.63.",
   "guestNote": "Bug fixes and new AI mechanics.",
-  "sha256": "0d6cace899aef5cd3cf9c110d4cf35f6ba26d870d4f6703c8f10260647b84985",
-  "desktop": "https://github.com/xivionisnothere-droid/yandere-updates/releases/download/v144/voxdere-ai-10.62-win.zip",
-  "desk": "https://github.com/xivionisnothere-droid/yandere-updates/releases/download/v144/voxdere-ai-10.62-desk.zip",
-  "desktopSha256": "7d6531195fd3699d48ba683a3dc10e55de81b0e65c0a442e0e1260394a6db5e1",
-  "deskSha256": "b3051a5f39e35d50ddade53387644660eb7779a856096dcc60fe16deef660d1e"
+  "sha256": "eb1ab6e15e7f957e003161ff0140a60f5c7f370042f073b566c84adce3b70659",
+  "desktop": "https://github.com/xivionisnothere-droid/yandere-updates/releases/download/v145/voxdere-ai-10.63-win.zip",
+  "desk": "https://github.com/xivionisnothere-droid/yandere-updates/releases/download/v145/voxdere-ai-10.63-desk.zip",
+  "desktopSha256": "fe62cf9781384018d1f1ad15a4e5647ec697d85f14079a5c95467b399d2b851b",
+  "deskSha256": "8e65d42a85d6bbd16f69065df57fd5e76a6357f9c988e45adad21aa199a00c44"
 }
