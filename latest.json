@@ -1,15 +1,15 @@
 {
-  "versionCode": 143,
-  "versionName": "10.61",
-  "name": "DESK 10.61",
+  "versionCode": 144,
+  "versionName": "10.62",
+  "name": "DESK 10.62",
   "at": "2026-09-22",
-  "file": "https://github.com/xivionisnothere-droid/yandere-updates/releases/download/v143/voxdere-ai-10.61.apk",
-  "view": "https://github.com/xivionisnothere-droid/yandere-updates/releases/tag/v143",
-  "note": "PIC and LOOK send illustrated stills. TALK puts hi in every box. Chat after a fill stays chat. Yandere buttons die in place. This desk knows it is 10.61.",
+  "file": "https://github.com/xivionisnothere-droid/yandere-updates/releases/download/v144/voxdere-ai-10.62.apk",
+  "view": "https://github.com/xivionisnothere-droid/yandere-updates/releases/tag/v144",
+  "note": "After hours PIC/LOOK is that adult, never a school uniform. TALK fills stay exact. This desk knows it is 10.62.",
   "guestNote": "Bug fixes and new AI mechanics.",
-  "sha256": "58eaf1c188642118faeda24bc4412be6e1b1ffacfb5048558da2117491a7ca26",
-  "desktop": "https://github.com/xivionisnothere-droid/yandere-updates/releases/download/v143/voxdere-ai-10.61-win.zip",
-  "desk": "https://github.com/xivionisnothere-droid/yandere-updates/releases/download/v143/voxdere-ai-10.61-desk.zip",
-  "desktopSha256": "fe00771db70f4698e859a7d207c21452f9a2b4f4d70caa53aff94da0f001f14e",
-  "deskSha256": "228ab4e2e02bffa063c7a1bb1f3a130da581fdf2bba5a5be0cebc855edad1e7d"
+  "sha256": "0d6cace899aef5cd3cf9c110d4cf35f6ba26d870d4f6703c8f10260647b84985",
+  "desktop": "https://github.com/xivionisnothere-droid/yandere-updates/releases/download/v144/voxdere-ai-10.62-win.zip",
+  "desk": "https://github.com/xivionisnothere-droid/yandere-updates/releases/download/v144/voxdere-ai-10.62-desk.zip",
+  "desktopSha256": "7d6531195fd3699d48ba683a3dc10e55de81b0e65c0a442e0e1260394a6db5e1",
+  "deskSha256": "b3051a5f39e35d50ddade53387644660eb7779a856096dcc60fe16deef660d1e"
 }
